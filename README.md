@@ -1,2 +1,7 @@
-# rajabasah.github.io
-animation &amp; sweet ketcup
+# Otter Pop
+
+The world's greatest Jekyll theme.
+
+Example: <http://tybenz.com>
+
+![](http://jekyllthemes.org/thumbnails/otter-pop.png)
